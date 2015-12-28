@@ -1,0 +1,8 @@
+"Gamemode"
+{
+	"name"		"Fallout: RTS"
+	"version"	"1.0"
+ 
+	"author_name"	"kopimi"
+	"author_email"	"regan.flow@gmail.com"
+}

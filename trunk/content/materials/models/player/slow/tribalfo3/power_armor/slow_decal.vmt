@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/tribalfo3/power_armor/slow_decal"
+	"$bumpmap" "models/player/slow/tribalfo3/power_armor/slow_decal_bump"
+
+	"$translucent" 1
+}

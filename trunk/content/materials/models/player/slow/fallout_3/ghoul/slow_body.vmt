@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/fallout_3/ghoul/slow_body"
+	"$bumpmap" "models/player/slow/fallout_3/glowing_one/slow_body_bump"
+
+ 	"$nocull" 1
+
+ 	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost"	"20"
+	"$phongfresnelranges"	"[.15 .5 1]"
+
+}

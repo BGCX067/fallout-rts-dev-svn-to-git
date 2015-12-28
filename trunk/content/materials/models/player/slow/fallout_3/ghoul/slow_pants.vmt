@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/fallout_3/glowing_one/slow_pants"
+	"$bumpmap" "models/player/slow/fallout_3/glowing_one/slow_body_bump"
+
+	"$translucent" 1
+}

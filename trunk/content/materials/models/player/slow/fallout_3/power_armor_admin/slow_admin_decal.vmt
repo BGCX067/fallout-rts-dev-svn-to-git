@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/fallout_3/power_armor_admin/slow_admin_decal"
+	"$bumpmap" "models/player/slow/fallout_3/power_armor_admin/slow_admin_decal_bump"
+
+	"$translucent" 1
+
+//	"$envmap" "env_cubemap"
+	"$envmap" "models/player/slow/fallout_3/power_armor_admin/slow_admin_decal_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[1 1 1]" 
+	"$envmapcontrast" .65
+	"$envmapsaturation" .75
+}
+
